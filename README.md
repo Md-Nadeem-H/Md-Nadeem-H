@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Md Nadeem.
+- 👀 I’m interested in Vlsi Design and Verification projects.
+- 🌱 I’m currently learning Verilog, System-Verilog, UVM.
+- 💞️ I’m looking to explore more on Verification Domain.
+- 📫 You can reach me on mdnadeem@gmail.com
